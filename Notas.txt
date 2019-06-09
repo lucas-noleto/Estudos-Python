@@ -1,0 +1,5 @@
+Falta modificar umas coisas no blackjack
+    -Está pedindo cartas indefinidamente, devo colocar um limite de 5 cartas na mao 
+    -Não está mostrando como ficou a mesa a cada pedido de cartas
+    -Não está fazendo a  aposta a cada pedido de cartas
+    - 
